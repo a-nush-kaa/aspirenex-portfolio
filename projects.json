@@ -1,0 +1,18 @@
+[
+  {
+    "key": 1,
+    "title": "Chat-Cord",
+    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+    "description": "Send and receive messages instantly, and foster seamless communication within a secure and authenticated environment. Tech: ReactJS,bootstrapped with ChakraUI, NodeJS,ExpressJS and Mongo DB,Socket.io.",
+    
+    "source": "https://github.com/a-nush-kaa/ChatCord"
+  },
+  {
+    "key": 2,
+    "title": "Travel Blogging Website",
+    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
+    "description": "Website that supports user authentication,posting reviews and comments,editing previous submissions and displaying. Technologies Used: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, BootStrap, Heroku",
+    
+    "source": "https://github.com/a-nush-kaa/TRAVEL-BLOG"
+  }
+]

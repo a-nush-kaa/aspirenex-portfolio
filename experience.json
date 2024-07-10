@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "role": "Indian Institute of Technology, Guwahati(IITG)",
+    "organisation": "IITG",
+    "startDate": "Nov,2021-",
+    "endDate": "Present",
+    "location": "Guwahati",
+    "experiences": [
+      
+      "Currently Pursuing BTECH"
+    ],
+    "imageSrc": "company/iit.png"
+  },
+  {
+    "id": 2,
+    "role": "Aligarh Muslim University Senior Secondary",
+    "organisation": "AMU",
+    "startDate": "Aug, 2019",
+    "endDate": "Aug, 2021",
+    "location": "Aligarh",
+    "experiences": [
+      ""
+    ],
+    "imageSrc": "company/amu.png"
+  },
+  {
+    "id": 3,
+    "role": "Aligarh Muslim University Senior Secondary",
+    "organisation": "AMU",
+    "startDate": "August, 2017",
+    "endDate": "Jun, 2019",
+    "location": "Aligarh",
+    "experiences": [
+      ""
+    ],
+    "imageSrc": "company/amu.png"
+  }
+]
